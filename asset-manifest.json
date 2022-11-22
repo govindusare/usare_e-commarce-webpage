@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/usare_e-commarce-webpage/static/css/main.e6c13ad2.css",
+    "main.js": "/usare_e-commarce-webpage/static/js/main.f26d07cf.js",
+    "static/js/787.34115356.chunk.js": "/usare_e-commarce-webpage/static/js/787.34115356.chunk.js",
+    "static/media/hero.jpg": "/usare_e-commarce-webpage/static/media/hero.b586ec90be71b6bea8cf.jpg",
+    "index.html": "/usare_e-commarce-webpage/index.html",
+    "main.e6c13ad2.css.map": "/usare_e-commarce-webpage/static/css/main.e6c13ad2.css.map",
+    "main.f26d07cf.js.map": "/usare_e-commarce-webpage/static/js/main.f26d07cf.js.map",
+    "787.34115356.chunk.js.map": "/usare_e-commarce-webpage/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f26d07cf.js"
+  ]
+}
